@@ -1,0 +1,14 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo4 -N"D:\ArtrOnix\ArtronixII\Medical GUC\Task1\Code\Code.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"D:\ArtrOnix\ArtronixII\Medical GUC\Task1\Code\" "Code.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_MemManager.mcl" "__Lib_Conversions.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC_A_C.mcl" "__Lib_EEPROM.mcl" "__Lib_FLASH_RW.mcl" "__Lib_I2C_c34.mcl" "__Lib_PWM_c21.mcl" "__Lib_SPI_c345.mcl" "__Lib_UART_c67.mcl" "__Lib_PortExpander.mcl" "__Lib_CANSPI.mcl" "__Lib_CF.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_RS485.mcl" "__Lib_S1D13700.mcl" "__Lib_T6963C.mcl" "__Lib_SPIGlcd.mcl" "__Lib_SPILcd.mcl" "__Lib_SPILcd8.mcl" "__Lib_SPIT6963C.mcl" "__Lib_EthEnc28j60.mcl" "__Lib_EthEnc24j600.mcl" "__Lib_TouchPanel.mcl"	 
+hint: 0	1138	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 124 ms	 
+diagnostics: 0	122	Compilation Started	Code.c
+warning: 49	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	Code.c
+diagnostics: 94	123	Compiled Successfully	Code.c
+hint: 28	1162	Variable 't' has been eliminated by optimizer	Code.c
+diagnostics: 0	127	All files Compiled in 188 ms	 
+hint: 0	1143	Used RAM (bytes): 76 (22%)  Free RAM (bytes): 276 (78%)	Used RAM (bytes): 76 (22%)  Free RAM (bytes): 276 (78%)
+hint: 0	1143	Used ROM (program words): 908 (11%)  Free ROM (program words): 7284 (89%)	Used ROM (program words): 908 (11%)  Free ROM (program words): 7284 (89%)
+diagnostics: 0	125	Project Linked Successfully	Code.mcppi
+diagnostics: 0	128	Linked in 951 ms	 
+diagnostics: 0	129	Project 'Code.mcppi' completed: 1794 ms	 
+diagnostics: 0	103	Finished successfully: 17 ãÇíæ 2015, 00:06:36	Code.mcppi
